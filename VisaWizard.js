@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Simplify your US Visa application process with automated checkbox selection, saving time and ensuring accuracy.
 // @author       Felipe Cezar Paz (https://github.com/felipeczpaz)
-// @match        https://ceac.state.gov/*
+// @match        https://ceac.state.gov/GenNIV/General/*
 // @grant        none
 // ==/UserScript==
 
