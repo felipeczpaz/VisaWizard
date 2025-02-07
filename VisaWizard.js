@@ -1,3 +1,14 @@
+/************************************************************
+ *                                                          *
+ *                     FlowHooks - All Rights Reserved      *
+ *              (c) 2019-2025 FlowHooks Software LTDA.     *
+ *                                                          *
+ *  This software is proprietary and confidential.          *
+ *  Unauthorized use, reproduction, or distribution is      *
+ *  strictly prohibited.                                     *
+ *                                                          *
+ ************************************************************/
+
 // ==UserScript==
 // @name         VisaWizard
 // @namespace    http://tampermonkey.net/
